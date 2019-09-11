@@ -26,7 +26,7 @@ Variables (12):
 
 ## Metric:
  - R2 Score: In regression, the R2 coefficient of determination is a statistical measure of how well the regression predictions approximate the real data points. An R2 of 1 indicates that the regression predictions perfectly fit the data. [2]  
- ![](r2score.png)
+ ![](r2score_equation.png)
 
 ## Results:
 ![](results.png)

@@ -1,4 +1,4 @@
-# Episode 2: Example of Polynomial Regression using different degrees to estimate C02 emissions from engine size. Calculating R2 score to evaluate the models.
+# Episode 2: Example of Polynomial Regression using different degrees to estimate C02 emissions from engine size. Use R2 score to compare the models.
 
 Dataset [1]: Contains model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada. 
 No. of rows: 1067  

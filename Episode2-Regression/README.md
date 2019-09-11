@@ -31,7 +31,7 @@ Variables (12):
 
 ## Metric:
  - R2 Score: In regression, the R2 coefficient of determination is a statistical measure of how well the regression predictions approximate the real data points. An R2 of 1 indicates that the regression predictions perfectly fit the data. [2]  
- $$R^2 = 1 - \frac{\sum_{i} (y_i - \hat{y_i})^2}{\sum_{i} (y_i - \bar{y_i})^2}$$
+ ![](r2score.png)
 
 ## Results:
 ![](results.png)
